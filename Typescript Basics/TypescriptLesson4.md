@@ -1,4 +1,4 @@
-# Typescript Lesson 4
+# Typescript Basics Lesson 4
 #learn/typescript
 
 3 April 2024 Wednesday
