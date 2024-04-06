@@ -1,7 +1,7 @@
 # Typescript Lesson 5
 #learn/typescript
 
-4 April 2024 Wednesday
+4 April 2024 Thursday
 
 # Literal Object Types
 
