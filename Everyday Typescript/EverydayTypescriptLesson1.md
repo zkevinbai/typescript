@@ -191,6 +191,4 @@ the compiler and computer don't care about how confusing something is. They only
 * ` () => (f: () => number) => () => (f: () => number) => number`
 * it's important to make the code readable, not just valid!
 
-
-
-
+hello darkness my old friend
